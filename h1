@@ -1,0 +1,15 @@
+HTTP/2 200 
+age: 0
+cache-control: public, max-age=31536000, must-revalidate
+content-disposition: attachment; filename="opengraph-image.png"
+content-security-policy: script-src 'none'; frame-src 'none'; sandbox;
+content-type: image/png
+date: Sat, 14 Nov 2026 08:26:16 GMT
+last-modified: Sat, 14 Nov 2026 08:26:16 GMT
+server: Vercel
+strict-transport-security: max-age=63072000
+vary: Accept
+x-vercel-cache: MISS
+x-vercel-id: cle1::mrvch-1794644776537-db5db1879b8b
+content-length: 418
+
